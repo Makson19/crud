@@ -14,6 +14,29 @@ Clone este repositório usando o comando abaixo:
 https://github.com/Makson19/crud.git
 ~~~
 
-Após clonar, siga as instruções em [/backend](https://github.com/Makson19/crud/tree/main/backend) e logo em seguida em [/frontend](https://github.com/Makson19/crud/tree/main/frontend), respectivamente, para iniciar corretamente a aplicação.
+### Iniciando o Back-end
 
-**Obs.: antes de começar, instale o [Node.js](https://nodejs.org/en/) em sua máquina.**
+Após clonar o repositório, abra um terminal na pasta `/backend` e execute o comando abaixo para instalar as dependências do projeto.
+
+~~~node
+npm install
+~~~
+
+Para iniciar o projeto execute o comando abaixo: 
+~~~node
+npm start
+~~~
+
+### Iniciando o Front-end
+
+Abra um terminal na pasta `/frontend` e execute o comando abaixo para instalar as dependências do projeto.
+
+~~~node
+npm install
+~~~
+
+Para iniciar o projeto execute o comando abaixo:
+
+~~~node
+npm start
+~~~
